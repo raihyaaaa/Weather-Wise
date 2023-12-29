@@ -1,0 +1,71 @@
+#bg {
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    cursor: default;
+    font-family: open sans, sans-serif;
+    color: #1e1e1e;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+    background: #fff!important;
+    width: 100%!important;
+    background-image: url(../images/about-tip-lower-left.png), url(../images/about-tip-upper-right.png)!important;
+    background-position: left bottom, right top!important;
+    background-repeat: no-repeat!important;
+}
+
+.content-main {
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    cursor: default;
+    font-family: open sans, sans-serif;
+    color: #1e1e1e;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    direction: ltr;
+    padding: 3rem 0;
+    background: 0 0!important;
+    width: 100%!important;
+}
+
+.row {
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    cursor: default;
+    font-family: open sans, sans-serif;
+    color: #1e1e1e;
+    font-size: 16px;
+    box-sizing: border-box;
+    padding: 0;
+    direction: ltr;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 70.5rem;
+}
+
+.large-9 left-content left columns no-padding {
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    cursor: default;
+    font-family: open sans, sans-serif;
+    color: #1e1e1e;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    direction: ltr;
+    float: left!important;
+    padding: 0;
+    max-width: 100%!important;
+    position: relative!important;
+    width: 100%;
+}
